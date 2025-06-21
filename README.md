@@ -69,14 +69,14 @@ App informing children and parents about legal rights of children in Kazakhstan.
 
 ## 🏆 Awards & Achievements
 
-1. 🥇 1st Prize – AI Platform Modeling Seminar, Team "GoBoston" (4Schoolers, Aug 2024)  
-2. 🥇 1st Place – Republican Conference of Scientific Research named after Al-Farabi (Feb 2025)  
-3. 🏅 1st-Degree Diploma – “Computer Modeling and Informatics”, 32nd V.I. Vernadsky Competition (May 2025)  
-4. 🏅 Laureate Diploma – “Earth Sciences”, 32nd V.I. Vernadsky Competition (May 2025)  
-5. 🥇 Gold Medal – Infomatrix Asia 2023, Programming Category (Dec 2023)  
-6. 🥈 2nd Place – First NIS Network AI Olympiad (Mar 2025)  
-7. 🥉 3rd Place – First National AI Olympiad in Kazakhstan  
-8. 🥈 2nd Place – Microsoft Imagine Cup Junior "AI for Earth", Team "Unicode" (Feb 2022)  
+1. 🥇 1st Prize – AI Platform Modeling Seminar, Team "GoBoston" (4Schoolers, Aug 2024)
+2. 🥇 Gold Medal – Infomatrix Asia 2023, Programming Category (Dec 2023)
+3. 🥇 1st Place – Republican Conference of Scientific Research named after Al-Farabi (Feb 2025)  
+4. 🏅 1st-Degree Diploma – “Computer Modeling and Informatics”, 32nd V.I. Vernadsky Competition (May 2025)  
+5. 🏅 Laureate Diploma – “Earth Sciences”, 32nd V.I. Vernadsky Competition (May 2025)
+6. 🥈 2nd Place – Microsoft Imagine Cup Junior "AI for Earth", Team "Unicode" (Feb 2022) 
+7. 🥉 3rd Place – First National AI Olympiad in Kazakhstan (May 2025)
+8. 🥈 2nd Place – First NIS Network AI Olympiad (Mar 2025)
 9. 🥇 Gold – 7th Kazakhstan Open Field Olympiad for Young Geologists (July 2024)  
    - 1st in Magnetometry  
    - 3rd in Hydrology  
