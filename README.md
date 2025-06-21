@@ -100,7 +100,7 @@ App informing children and parents about legal rights of children in Kazakhstan.
 ## 🌍 Languages
 - Kazakh – native  
 - Russian – fluent  
-- English – C1 (IELTS 7.5 equivalent)
+- English – C1
 
 ---
 
