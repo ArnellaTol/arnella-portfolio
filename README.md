@@ -25,7 +25,7 @@ _2020 – 2026_
 ## 📚 Courses & Training
 I've been studying programming since the 5th grade, starting with C++ in the *"Junior Academy"* course at IT Step Academy.
 
-- **“AI Integration”** – Nimble Academy (completed: August 2023)  
+- **“AI Integration”** – Nimble Academy (completed: November 2023)  
 - **“Application Development for iOS”** – IT Step Academy (completed: May 2023)  
 - **“Special Course: Programming”** – IT Step Academy (completed: April 2022)  
 - **“Introduction to Cyber Security”** – New York University (Coursera platform, completed: August 2024)
