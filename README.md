@@ -97,6 +97,13 @@ App informing children and parents about legal rights of children in Kazakhstan.
 
 ---
 
+## 📝 Exam scores
+- SAT: 1470/1600 (R&W-680, Math-790)
+- AP Calculus AB: 5/5
+- AP Computer Science Principles: 5/5
+
+---
+
 ## 🌍 Languages
 - Kazakh – native  
 - Russian – fluent  
