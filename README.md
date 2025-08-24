@@ -38,10 +38,9 @@ I've been studying programming since the 5th grade, starting with C++ in the *"J
 - Authored a social research paper: *“The Problem of High School Students' Decisions on University Majors and AI-Based Solutions”*  
 - Volunteered as a mobile app programming tutor for orphans with disabilities (2022)  
 - Conducted training in "Magnetometry" and "Hydrology" for the Young Geologist Olympiad (June 2025)  
-- Wrote a technical research paper and developed a project with a mentor from Inspirit AI (publication in progress)  
+- Wrote a technical research paper and developed a project with a mentor from Inspirit AI (publication to NHSJS in progress)  
 - Participated in the AFS Global STEM Accelerators program (June 1 – August 31, 2025)
 - Participated in the LaunchX Online Bootcamp program (October 6 – October 17, 2025)
-- Wrote a research titled "Enhancing AI-Powered Career Guidance for High School Students Using Retrieval-Augmented Generation" and published it in National High School Journal of Science (NHSJS)
 
 ---
 
