@@ -39,7 +39,9 @@ I've been studying programming since the 5th grade, starting with C++ in the *"J
 - Volunteered as a mobile app programming tutor for orphans with disabilities (2022)  
 - Conducted training in "Magnetometry" and "Hydrology" for the Young Geologist Olympiad (June 2025)  
 - Wrote a technical research paper and developed a project with a mentor from Inspirit AI (publication in progress)  
-- **Currently participating** in the AFS Global STEM Accelerators program (June 1 – August 31, 2025)
+- Participated in the AFS Global STEM Accelerators program (June 1 – August 31, 2025)
+- Participated in the LaunchX Online Bootcamp program (October 6 – October 17, 2025)
+- Wrote a research titled "Enhancing AI-Powered Career Guidance for High School Students Using Retrieval-Augmented Generation" and published it in National High School Journal of Science (NHSJS)
 
 ---
 
@@ -99,6 +101,7 @@ App informing children and parents about legal rights of children in Kazakhstan.
 
 ## 📝 Exam scores
 - SAT: 1470/1600 (R&W-680, Math-790)
+- IELTS: 7.5 (reading 9, listening 8.5, writing 6.5, speaking 6.5)
 - AP Calculus AB: 5/5
 - AP Computer Science Principles: 5/5
 
