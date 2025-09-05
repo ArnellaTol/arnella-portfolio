@@ -99,7 +99,7 @@ App informing children and parents about legal rights of children in Kazakhstan.
 ---
 
 ## 📝 Exam scores
-- SAT: 1470/1600 (R&W-680, Math-790)
+- SAT: 1540/1600 (R&W-750, Math-790)
 - IELTS: 7.5 (reading 9, listening 8.5, writing 6.5, speaking 6.5)
 - AP Calculus AB: 5/5
 - AP Computer Science Principles: 5/5
