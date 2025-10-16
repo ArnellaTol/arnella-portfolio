@@ -46,7 +46,7 @@ I've been studying programming since the 5th grade, starting with C++ in the *"J
 
 ## 🚀 Major Projects
 
-### 🔹 [AI-Powered Career Advisor](https://github.com/ArnellaTol/AI-career-assistant)
+### 🔹 [AI-Powered Career Advisor](https://github.com/ArnellaTol/school-career-guidance-app)
 **Technologies:** Python, Streamlit, HuggingFace  
 Developed an AI tool to help high school students choose university majors based on interests and strengths.
 
