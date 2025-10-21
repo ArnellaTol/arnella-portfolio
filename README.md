@@ -1,14 +1,14 @@
-# 🌟 Arnella Tolegen – Portfolio
+# Arnella Tolegen – Resume/Portfolio
 
 **Email:** arnella.tolegen@gmail.com  
-**LinkedIn:** [linkedin.com/in/arnella-tolegen](https://www.linkedin.com/in/arnella-tolegen-bb3a90320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+**LinkedIn:** [linkedin.com/in/arnella-tolegen](https://www.linkedin.com/in/arnella-tolegen/)
 **GitHub:** [github.com/ArnellaTol](https://github.com/ArnellaTol)  
 **AppStore Developer Account:** [View Apps](https://apps.apple.com/kz/developer/asel-zhanbekova/id1660220813)
 
 ---
 
 ## 🎓 Education
-**Nazarbayev Intellectual School of Chemistry and Biology in Karaganda**  
+**Nazarbayev Intellectual School of Mathematics and Science in Karaganda**  
 _2020 – 2026_
 
 ---
