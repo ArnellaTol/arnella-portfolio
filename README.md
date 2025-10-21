@@ -105,7 +105,7 @@ I've been studying programming since the 5th grade, starting with C++ in the *"J
 
 ---
 
-### 🔹 Small Utility Apps (Selected)
+### 🔹 Other iOS Apps
 - [Scientific Word Generator](https://apps.apple.com/kz/app/scientific-word-generator/id1660260312)  
 - [Kazakh Word Generator](https://apps.apple.com/kz/app/%D2%9B%D0%B0%D0%B7%D0%B0%D2%9B%D1%88%D0%B0-%D1%81%D3%A9%D0%B7-%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B/id6447484786)
 
@@ -116,8 +116,8 @@ I've been studying programming since the 5th grade, starting with C++ in the *"J
 
 1. 🥇 Gold Medal (8 awards / 160+ teams) – Infomatrix Asia 2023, Programming Category (Dec 2023)
 2. 🥇 1st Place – Republican Conference of Scientific Research named after Al-Farabi (Feb 2025)
-3. 🏅 1st-Degree Diploma – “Computer Modeling and Informatics”, 32nd V.I. Vernadsky Competition (May 2025)
-4. 🏅 Laureate Diploma – “Earth Sciences”, 32nd V.I. Vernadsky Competition (May 2025)
+3. 🏅 1st-Degree Diploma – “Computer Modeling and Informatics”, International Research Competition named after V.I. Vernadsky (May 2025)
+4. 🏅 Laureate Diploma – “Earth Sciences”, International Research Competition named after V.I. Vernadsky (May 2025)
 5. 🥈 2nd Place (out of 21 teams from 9 countries) – Microsoft Imagine Cup Junior "AI for Earth", Team "Unicode" (Feb 2022) [Article](https://news.microsoft.com/en-cee/2022/04/27/teams-from-latvia-kazakhstan-and-bulgaria-are-the-winners-of-the-2022-imagine-cup-junior-virtual-ai-hackathons-series/)
 6. 🥉 3rd Place (only female awardee, 19th/175) – First National AI Olympiad in Kazakhstan (May 2025)
 7. 🥈 2nd Place (27th/151) – First NIS Network AI Olympiad (Mar 2025)
@@ -158,4 +158,4 @@ I've been studying programming since the 5th grade, starting with C++ in the *"J
 ---
 
 ## 💡 Interests
-Artificial Intelligence · Scientific Research · Earth Science · Educational Technologies · Startups
+Artificial Intelligence · Scientific Research · Educational Technologies · Earth Science · Startups
