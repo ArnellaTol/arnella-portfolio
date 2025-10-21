@@ -51,7 +51,7 @@ I've been studying programming since the 5th grade, starting with C++ in the *"J
 **Role:** Founder & Lead Developer / Researcher  
 **Tech:** Python, Streamlit, RAG (retrieval-augmented generation), Hugging Face, OpenAI APIs  
 **What:** Web app that profiles students’ interests and strengths, provides personalized major/career suggestions, and offers follow-up resources using a RAG-based assistant. Published pilot study.  
-**Impact / Status:** Live app and peer-reviewed publication.  
+**Impact / Status:** Deployed across **23 schools** in the NIS network in Kazakhstan; live app and peer-reviewed pilot study.  
 **Links:** [Live app](https://school-career-guidance-app.streamlit.app/) · [Code](https://github.com/ArnellaTol/school-career-guidance-app) · [Publication](https://nhsjs.com/2025/rag-for-ai-powered-career-guidance-in-high-schools-a-pilot-study/)
 
 ---
