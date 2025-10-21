@@ -35,8 +35,8 @@ I've been studying programming since the 5th grade, starting with C++ in the *"J
 ## 🛠️ Activities
 - Developed and published iOS mobile applications on the App Store  
 - Created AI-related projects and published them on GitHub  
-- Authored a social research paper: *“The Problem of High School Students' Decisions on University Majors and AI-Based Solutions”*  
-- Volunteered as a mobile app programming tutor for orphans with disabilities (2022)  
+- Authored a social research paper: *“The Problem of High School Students' Decisions on University Majors and AI-Based Solutions”*. [Publication](https://drive.google.com/file/d/13dyajhjA9qPpByiBlhnCf2JHs-DdPeJh/view?usp=share_link)
+- Volunteered as a mobile app programming tutor for orphans with disabilities (2022)
 - Conducted training in "Magnetometry" and "Hydrology" for the Young Geologist Olympiad (June 2025)  
 - Wrote a research "RAG for AI-Powered Career Guidance in High Schools: A Pilot Study" and developed a project with Inspirit AI program. [Published in NHSJS](https://nhsjs.com/2025/rag-for-ai-powered-career-guidance-in-high-schools-a-pilot-study/)
 - Participated in the AFS Global STEM Accelerators program (June 1 – August 31, 2025). [Certificate](https://drive.google.com/file/d/1VKcYxrGr6n52JJBrrBg7DIaeCm1IJMCO/view?usp=drivesdk) 
@@ -44,27 +44,71 @@ I've been studying programming since the 5th grade, starting with C++ in the *"J
 
 ---
 
-## 🚀 Major Projects
+## 🚀 Projects
 
-### 🔹 [AI-Powered Career Advisor](https://github.com/ArnellaTol/school-career-guidance-app)
-**Technologies:** Python, Streamlit, HuggingFace  
-Developed an AI tool to help high school students choose university majors based on interests and strengths.
+### 🔹 AI-Powered Career Advisor (School Career Guidance App)  
+**Role:** Founder & lead developer / researcher  
+**Tech:** Python, Streamlit, RAG (retrieval-augmented generation), Hugging Face, OpenAI APIs  
+**What:** Web app that profiles students’ interests and strengths, provides personalized major/career suggestions, and offers follow-up resources using a RAG-based assistant. Published pilot study.  
+**Impact / Status:** Live app and peer-reviewed publication.  
+**Links:** Live app — https://school-career-guidance-app.streamlit.app/ · Code — https://github.com/ArnellaTol/school-career-guidance-app · Paper — https://nhsjs.com/2025/rag-for-ai-powered-career-guidance-in-high-schools-a-pilot-study/
 
-### 🔹 [AI-Based Mineral Group Classification](https://github.com/ArnellaTol/Mineral_group_classification)  
-**Technologies:** Python, Streamlit, Scikit-learn  
-Machine Learning app to classify mineral groups based on physical characteristics.
+---
 
-### 🔹 [TELJAN iOS App](https://apps.apple.com/kz/app/teljan/id6469358403)  
-**Technologies:** Swift  
-Helps Kazakh-speaking students learn English using Latin-based Kazakh spelling.
+### 🔹 InsightEd — AI Call Quality & Insights Platform  
+**Role:** Lead developer (MVP) — *LaunchX*  
+**Tech:** Python, Streamlit, Whisper (transcription), OpenCV, simple CV face-detection, basic emotion inference, Docker  
+**What:** MVP that automatically transcribes online tutoring sessions, detects audio dropouts & long silences, samples video frames to detect faces & infer coarse emotion/engagement, and generates a concise coaching report with key timestamps, audio issues, engagement metrics and improvement suggestions.  
+**Impact / Status:** Prototype used for demo in LaunchX; good MVP for tutoring companies & small businesses.  
+**Links:** Demo — https://insighted-mvp.streamlit.app/ · Code — https://github.com/ArnellaTol/InsightEd
 
-### 🔹 [Geological History of Saryarqa App](https://apps.apple.com/kz/app/geological-history-of-saryarqa/id6450415302)  
-**Technologies:** Swift  
-Educational app teaching the geological history of the Saryarqa steppe in Kazakhstan.
+---
 
-### 🔹 [Children’s Rights in KZ App](https://apps.apple.com/kz/app/childrens-rights-in-kz/id6479046742)  
-**Technologies:** Swift  
-App informing children and parents about legal rights of children in Kazakhstan.
+### 🔹 CV4CT — Computer Vision for Sinus CT Scan Classification  
+**Role:** Research lead & ML engineer — *AFS project*  
+**Tech:** Python, PyTorch/TensorFlow, CNN architectures, transfer learning, Streamlit, OpenCV  
+**What:** Diagnostic-support tool to assist clinicians in flagging sinus CT scans for further review (normal vs. potential pathology). Focus on robust preprocessing, model interpretability (saliency maps) and clinician-facing prototype.  
+**Impact / Status:** Prototype for pilot testing with clinicians.  
+**Links:** Prototype — https://cv4ctapp.streamlit.app/ · Code — https://github.com/ArnellaTol/cv4ct
+
+---
+
+### 🔹 AI-Based Mineral Group Classification  
+**Role:** Creator & developer  
+**Tech:** Python, Scikit-learn, Streamlit  
+**What:** ML app that classifies mineral groups by physical characteristics; used as an educational tool for geology students.  
+**Impact / Status:** Published in Vernadsky Collection; used in student trainings.  
+**Links:** Live app — https://mineralgroupclassification.streamlit.app/ · Code — https://github.com/ArnellaTol/Mineral_group_classification · Publication — https://vernadsky.info/files/2025/works.pdf
+
+---
+
+### 🔹 TELJAN — iOS app for advanced English (Kazakh-base)  
+**Role:** iOS developer (Swift)  
+**What:** Mobile app using Kazakh linguistic patterns and Latin-based Kazakh spelling to teach advanced English items (idioms, cognates).  
+**Impact / Awards:** Bronze — Republican Competition of Scientific Projects ’24 (Computer Science).  
+**Links:** App Store — https://apps.apple.com/kz/app/teljan/id6469358403
+
+---
+
+### 🔹 Geological History of Saryarqa — iOS educational app  
+**Role:** Developer (Swift)  
+**What:** Interactive app teaching geological history of the Saryarqa steppe for students/teachers.  
+**Links:** App Store — https://apps.apple.com/kz/app/geological-history-of-saryarqa/id6450415302
+
+---
+
+### 🔹 Children’s Rights in KZ — iOS app  
+**Role:** Developer (Swift)  
+**What:** Educational app for children/parents about legal rights in Kazakhstan.  
+**Links:** App Store — https://apps.apple.com/kz/app/childrens-rights-in-kz/id6479046742
+
+---
+
+### 🔹 Small utility apps (selected)
+- **Scientific Word Generator** — App Store: https://apps.apple.com/kz/app/scientific-word-generator/id1660260312  
+- **Kazakh Word Generator** — App Store: https://apps.apple.com/kz/app/%D2%9B%D0%B0%D0%B7%D0%B0%D2%9B%D1%88%D0%B0-%D1%81%D3%A9%D0%B7-%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B/id6447484786
+
+---
 
 ---
 
@@ -75,7 +119,7 @@ App informing children and parents about legal rights of children in Kazakhstan.
 3. 🥇 1st Place – Republican Conference of Scientific Research named after Al-Farabi (Feb 2025)  
 4. 🏅 1st-Degree Diploma – “Computer Modeling and Informatics”, 32nd V.I. Vernadsky Competition (May 2025)  
 5. 🏅 Laureate Diploma – “Earth Sciences”, 32nd V.I. Vernadsky Competition (May 2025)
-6. 🥈 2nd Place – Microsoft Imagine Cup Junior "AI for Earth", Team "Unicode" (Feb 2022) 
+6. 🥈 2nd Place – Microsoft Imagine Cup Junior "AI for Earth", Team "Unicode" (Feb 2022) [Article](https://news.microsoft.com/en-cee/2022/04/27/teams-from-latvia-kazakhstan-and-bulgaria-are-the-winners-of-the-2022-imagine-cup-junior-virtual-ai-hackathons-series/)
 7. 🥉 3rd Place – First National AI Olympiad in Kazakhstan (May 2025)
 8. 🥈 2nd Place – First NIS Network AI Olympiad (Mar 2025)
 9. 🥇 Gold – 7th Kazakhstan Open Field Olympiad for Young Geologists (July 2024)  
