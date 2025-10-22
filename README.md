@@ -8,7 +8,7 @@
 ---
 
 ## 🎓 Education
-**Nazarbayev Intellectual School of Mathematics and Science in Karaganda**  
+**Nazarbayev Intellectual School of Science and Mathematics in Karaganda**  
 _2020 – 2026_
 
 ---
