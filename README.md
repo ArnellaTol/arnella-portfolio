@@ -43,7 +43,6 @@ I've been studying programming since the 5th grade, starting with C++ in the *"J
 - Participated in the LaunchX Online Bootcamp program (October 6 – October 17, 2025)
 
 ---
----
 
 ## 🚀 Projects
 
@@ -110,12 +109,14 @@ I've been studying programming since the 5th grade, starting with C++ in the *"J
 - [Kazakh Word Generator](https://apps.apple.com/kz/app/%D2%9B%D0%B0%D0%B7%D0%B0%D2%9B%D1%88%D0%B0-%D1%81%D3%A9%D0%B7-%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B/id6447484786)
 
 ---
-## 📑 Research & Publications
-●	RAG for AI-Powered Career Guidance in High Schools: A Pilot Study, NHSJS (2025). [Link](https://nhsjs.com/2025/rag-for-ai-powered-career-guidance-in-high-schools-a-pilot-study/)
-●	Social research: “The Problem of High School Students’ Decisions on University Majors and AI-Based Solutions”. [Link](https://drive.google.com/file/d/13dyajhjA9qPpByiBlhnCf2JHs-DdPeJh/view?usp=share_link)
----
-## 🏆 Awards & Achievements
 
+## 📑 Research & Publications
+- RAG for AI-Powered Career Guidance in High Schools: A Pilot Study, NHSJS (2025). [Link](https://nhsjs.com/2025/rag-for-ai-powered-career-guidance-in-high-schools-a-pilot-study/)
+- Social research: “The Problem of High School Students’ Decisions on University Majors and AI-Based Solutions”. [Link](https://drive.google.com/file/d/13dyajhjA9qPpByiBlhnCf2JHs-DdPeJh/view?usp=share_link)
+
+---
+
+## 🏆 Awards & Achievements
 1. 💎 **Peer-reviewed Publication (acceptance rate ~1%)** – *National High School Journal of Science*,  
    “RAG for AI-Powered Career Guidance in High Schools” (2025)
 2. 🥈 **2nd Place (out of 21 teams from 9 countries)** – Microsoft Imagine Cup Junior “AI for Earth”, Team “Unicode” (Feb 2022)  
