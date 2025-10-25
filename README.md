@@ -164,4 +164,4 @@ I've been studying programming since the 5th grade, starting with C++ in the *"J
 ---
 
 ## 💡 Interests
-Artificial Intelligence · Scientific Research · Educational Technologies · Earth Science · Startups
+Artificial Intelligence · Scientific Research · Educational Technologies · Startups · Earth Science
