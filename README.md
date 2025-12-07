@@ -111,7 +111,7 @@ I've been studying programming since the 5th grade, starting with C++ in the *"J
 ---
 
 ## 📑 Research & Publications
-- RAG for AI-Powered Career Guidance in High Schools: A Pilot Study, NHSJS (2025). [Link](https://nhsjs.com/2025/rag-for-ai-powered-career-guidance-in-high-schools-a-pilot-study/)
+- RAG for AI-Powered Career Guidance in High Schools: A Pilot Study, NHSJS (2025). [Link](https://nhsjs.com/2025/rag-for-ai-powered-career-guidance-in-high-schools-a-pilot-study/); [Archive Link](https://drive.google.com/file/d/1MhAqkTX2wZnEGcH2bR_gsA048u90mBO6/view?usp=share_link)
 - Social research: “The Problem of High School Students’ Decisions on University Majors and AI-Based Solutions”. [Link](https://drive.google.com/file/d/13dyajhjA9qPpByiBlhnCf2JHs-DdPeJh/view?usp=share_link)
 
 ---
