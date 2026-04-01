@@ -125,24 +125,25 @@ I've been studying programming since the 5th grade, starting with C++ in the *"J
    [Article](https://news.microsoft.com/en-cee/2022/04/27/teams-from-latvia-kazakhstan-and-bulgaria-are-the-winners-of-the-2022-imagine-cup-junior-virtual-ai-hackathons-series/)
 4. 🥇 **Gold Medal (8 awards / 160+ teams)** – Infomatrix Asia 2023, Programming Category (Dec 2023)
 5. 🥉 **3rd Place (only female awardee, 19th/175)** – First National AI Olympiad in Kazakhstan (May 2025)
-6. 🥈 **2nd Place (27th/151)** – First NIS Network AI Olympiad (Mar 2025)
-7. 🥇 **1st Place** – Republican Conference of Scientific Research named after Al-Farabi (Feb 2025)
-8. 🏅 **1st-Degree Diploma** – “Computer Modeling and Informatics”, International Research Competition named after V.I. Vernadsky (May 2025)
-9. 🏅 **Laureate Diploma** – “Earth Sciences”, International Research Competition named after V.I. Vernadsky (May 2025)
-10. 🥇 **Gold (top 1 / 15 teams)** – 7th Kazakhstan Open Field Olympiad for Young Geologists (July 2024)  
+6. 🥉 **3rd Place (100+ teams)** - National AI competition WISH: Woman In STEM Hackathon (March 2026)
+7. 🥈 **2nd Place (27th/151)** – First NIS Network AI Olympiad (Mar 2025)
+8. 🥇 **1st Place** – Republican Conference of Scientific Research named after Al-Farabi (Feb 2025)
+9. 🏅 **1st-Degree Diploma** – “Computer Modeling and Informatics”, International Research Competition named after V.I. Vernadsky (May 2025)
+10. 🏅 **Laureate Diploma** – “Earth Sciences”, International Research Competition named after V.I. Vernadsky (May 2025)
+11. 🥇 **Gold (top 1 / 15 teams)** – 7th Kazakhstan Open Field Olympiad for Young Geologists (July 2024)  
     - 1st in Magnetometry  
     - 3rd in Hydrology  
     - 1st in Geological Report  
-11. 🥉 **Bronze (top 16 of 169 finalists)** – Republican Competition of Scientific Projects, Computer Science category (Mar 2024)
-12. 🥉 **Bronze** – Republican Field Olympiad for Young Geologists (July 2023)  
+12. 🥉 **Bronze (top 16 of 169 finalists)** – Republican Competition of Scientific Projects, Computer Science category (Mar 2024)
+13. 🥉 **Bronze** – Republican Field Olympiad for Young Geologists (July 2023)  
     - 3rd in Fundamentals of Safety  
     - 2nd in Geological Report  
-13. 🥉 **Bronze** – 6th Kazakhstan Open Field Olympiad for Young Geologists (July 2022)  
+14. 🥉 **Bronze** – 6th Kazakhstan Open Field Olympiad for Young Geologists (July 2022)  
     - 2nd in Hydrology  
     - 3rd in Radiometry  
-14. 🥈 **2nd Place** – NIS Network Stage, Scientific Projects Competition (2023)
-15. 🥉 **3rd Place** – NIS Network Stage, Scientific Projects Competition (2022)
-16. 🏅 **Special Nomination** – “Most Practical Research”, NIS IV Annual Network Global Perspectives and Project Work (GPPW) and Economics Conference (Apr 2025)
+15. 🥈 **2nd Place** – NIS Network Stage, Scientific Projects Competition (2023)
+16. 🥉 **3rd Place** – NIS Network Stage, Scientific Projects Competition (2022)
+17. 🏅 **Special Nomination** – “Most Practical Research”, NIS IV Annual Network Global Perspectives and Project Work (GPPW) and Economics Conference (Apr 2025)
 
 > 🧭 **Note:** The Young Geologists Olympiad is a national field competition combining geology, safety, and applied field projects.  
 > 🧪 **Note:** The NIS network stage represents the penultimate round of Kazakhstan’s national scientific projects competition.
