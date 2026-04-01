@@ -125,7 +125,7 @@ I've been studying programming since the 5th grade, starting with C++ in the *"J
    [Article](https://news.microsoft.com/en-cee/2022/04/27/teams-from-latvia-kazakhstan-and-bulgaria-are-the-winners-of-the-2022-imagine-cup-junior-virtual-ai-hackathons-series/)
 4. 🥇 **Gold Medal (8 awards / 160+ teams)** – Infomatrix Asia 2023, Programming Category (Dec 2023)
 5. 🥉 **3rd Place (only female awardee, 19th/175)** – First National AI Olympiad in Kazakhstan (May 2025)
-6. 🥉 **3rd Place (100+ teams)** - National AI competition WISH: Woman In STEM Hackathon (March 2026)
+6. 🥉 **3rd Place (100+ teams, high school and university students)** - National AI competition WISH: Woman In STEM Hackathon (March 2026)
 7. 🥈 **2nd Place (27th/151)** – First NIS Network AI Olympiad (Mar 2025)
 8. 🥇 **1st Place** – Republican Conference of Scientific Research named after Al-Farabi (Feb 2025)
 9. 🏅 **1st-Degree Diploma** – “Computer Modeling and Informatics”, International Research Competition named after V.I. Vernadsky (May 2025)
