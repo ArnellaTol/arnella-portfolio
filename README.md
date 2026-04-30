@@ -128,9 +128,9 @@ I've been studying programming since the 5th grade, starting with C++ in the *"J
 6. 🥉 **3rd Place (only female awardee, 19th/175)** – First National AI Olympiad in Kazakhstan (May 2025)
 7. 🥉 **3rd Place (100+ teams, high school and university students)** - National AI competition WISH: Woman In STEM Hackathon (March 2026)
 8. 🥈 **2nd Place (27th/151)** – First NIS Network AI Olympiad (March 2025)
-9. 🥇 **1st Place** – Republican Conference of Scientific Research named after Al-Farabi (February 2025)
-10. 🏅 **1st-Degree Diploma** – “Computer Modeling and Informatics”, International Research Competition named after V.I. Vernadsky (May 2025)
-11. 🏅 **Laureate Diploma** – “Earth Sciences”, International Research Competition named after V.I. Vernadsky (May 2025)
+9. 🏅 **1st-Degree Diploma** – “Computer Modeling and Informatics”, International Research Competition named after V.I. Vernadsky (May 2025)
+10. 🏅 **Laureate Diploma** – “Earth Sciences”, International Research Competition named after V.I. Vernadsky (May 2025)
+11. 🥇 **1st Place** – Republican Conference of Scientific Research named after Al-Farabi (February 2025)
 12. 🥇 **Gold (top 1 / 15 teams)** – 7th Kazakhstan Open Field Olympiad for Young Geologists (July 2024)  
     - 1st in Magnetometry  
     - 3rd in Hydrology  
