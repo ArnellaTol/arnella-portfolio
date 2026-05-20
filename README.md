@@ -156,6 +156,7 @@ I've been studying programming since the 5th grade, starting with C++ in the *"J
 - IELTS: 7.5 (reading 9, listening 8, writing 7, speaking 6.5)
 - AP Calculus AB: 5/5
 - AP Computer Science Principles: 5/5
+- CSCA: Math 95/100, Physics 85/100
 
 ---
 
