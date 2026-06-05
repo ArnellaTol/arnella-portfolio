@@ -56,15 +56,6 @@ I've been studying programming since the 5th grade, starting with C++ in the *"J
 
 ---
 
-### 🔹 [InsightEd — AI Call Quality & Insights Platform](https://github.com/ArnellaTol/InsightEd)  
-**Role:** Lead Developer (MVP) — *LaunchX*  
-**Tech:** Python, Streamlit, Whisper (transcription), OpenCV, simple CV face-detection, basic emotion inference, Docker  
-**What:** MVP that automatically transcribes online tutoring sessions, detects audio dropouts & long silences, samples video frames to detect faces & infer coarse emotion/engagement, and generates concise coaching reports with timestamps, engagement metrics, and improvement suggestions.  
-**Impact / Status:** Prototype used for demo in LaunchX; MVP designed for tutoring companies & small businesses.  
-**Links:** [Demo](https://insighted-mvp.streamlit.app/) · [Code](https://github.com/ArnellaTol/InsightEd)
-
----
-
 ### 🔹 [CV4CT — Computer Vision for Sinus CT Scan Classification](https://github.com/ArnellaTol/cv4ct)  
 **Role:** Research Lead & ML Engineer — *AFS Project*  
 **Tech:** Python, PyTorch/TensorFlow, CNN architectures, transfer learning, Streamlit, OpenCV  
