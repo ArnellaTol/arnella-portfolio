@@ -8,8 +8,8 @@
 ---
 
 ## 🎓 Education
-**Singapore University of Technology and Design**
-_2026 – 2030_
+**Singapore University of Technology and Design**  
+_2026 – 2030_  
 **Nazarbayev Intellectual School of Science and Mathematics in Karaganda**  
 _2020 – 2026_
 
