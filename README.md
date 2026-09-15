@@ -1,7 +1,7 @@
 # Arnella Tolegen – Resume/Portfolio
 
 **Email:** arnella.tolegen@gmail.com  
-**LinkedIn:** [linkedin.com/in/arnella-tolegen](https://www.linkedin.com/in/arnella-tolegen/)
+**LinkedIn:** [linkedin.com/in/arnella-tolegen](https://www.linkedin.com/in/arnella-tolegen/)  
 **GitHub:** [github.com/ArnellaTol](https://github.com/ArnellaTol)  
 **AppStore Developer Account:** [View Apps](https://apps.apple.com/kz/developer/asel-zhanbekova/id1660220813)
 
