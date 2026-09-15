@@ -8,16 +8,18 @@
 ---
 
 ## 🎓 Education
+**Singapore University of Technology and Design**
+_2026 – 2030_
 **Nazarbayev Intellectual School of Science and Mathematics in Karaganda**  
 _2020 – 2026_
 
 ---
 
 ## 💻 Programming Skills
-- **Swift** – iOS app development (frontend)  
-- **Python** – AI integration (Scikit-learn, Keras, HuggingFace, Transformers, OpenAI, Streamlit)  
-- **C#** – Desktop apps and Unity game development  
-- **C++** – Basic knowledge  
+- **Python** – AI integration (Scikit-learn, Keras, HuggingFace, Transformers, OpenAI, Streamlit)
+- **Swift** – iOS app development (frontend)
+- **C#** – Desktop apps and Unity game development
+- **C++** – Basic knowledge
 - **HTML & CSS** – Basic knowledge
 
 ---
@@ -26,10 +28,10 @@ _2020 – 2026_
 I've been studying programming since the 5th grade, starting with C++ in the *"Junior Academy"* course at IT Step Academy.
 
 - **"CS50's Introduction to Artificial Intelligence with Python"** - Harvard University, EdX (completed: February 2026)
-- **“AI Integration”** – Nimble Academy (completed: November 2023)  
-- **“Application Development for iOS”** – IT Step Academy (completed: May 2023)  
-- **“Special Course: Programming”** – IT Step Academy (completed: April 2022)  
+- **“AI Integration”** – Nimble Academy (completed: November 2023)
 - **“Introduction to Cyber Security”** – New York University (Coursera platform, completed: August 2024)
+- **“Application Development for iOS”** – IT Step Academy (completed: May 2023)
+- **“Special Course: Programming”** – IT Step Academy (completed: April 2022)
 
 ---
 
